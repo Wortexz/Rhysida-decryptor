@@ -14,6 +14,8 @@ Decryptor only works for encrypted files by the Rhysida Windows encryptor and ca
 
 **※ Before using the recovery tool, be sure to back up encrypted files separately using a removable storage device.**  
 
+**Download URL:** https://ufile.io/cyul1m7n  
+
 1. From .zip extract decryption Tool
 2. Launch the decryption tool (.exe) as Administrator
 3. After launching the Decryption Tool it will check for the:
