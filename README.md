@@ -28,7 +28,7 @@ Decryptor only works for encrypted files by the Rhysida Windows encryptor and ca
 * Encrypted files
 4. When the Decryption Tool finishes - all possible decryptable files will be decrypted and 3 txt files will be created
 
-TXT files will be created:
+**TXT files will be created:**  
 * Infected file list
 * Decrypted file list
 * Failed to decrypt file list  
