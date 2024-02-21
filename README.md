@@ -15,7 +15,7 @@ Decryptor only works for encrypted files by the Rhysida Windows encryptor and ca
 **※ Before using the recovery tool, be sure to back up encrypted files separately using a removable storage device.**  
 
 **Download URL:** https://ufile.io/cyul1m7n  
-*S HA-256: 2081309f6b34cb67226de373d8af8cfda1b31273582f349c4197f8975922eb30  
+* SHA-256: 2081309f6b34cb67226de373d8af8cfda1b31273582f349c4197f8975922eb30  
 * VirusTotal: https://www.virustotal.com/gui/file/2081309f6b34cb67226de373d8af8cfda1b31273582f349c4197f8975922eb30?nocache=1  
 * File is Digitally signed by Korea Internet and Security Agency  
 * Original URL (pretty slow download speed): https://seed.kisa.or.kr/kisa/Board/166/detailView.do  
